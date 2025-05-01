@@ -42,6 +42,6 @@ A minimal yet addictive React game where the player predicts the next dice roll!
 
 ```bash
 git clone https://github.com/Faisalmalik01/Dice-Dilemma.git
-cd dice-dilemma
+cd Dice-Dilemma
 npm install
 npm run dev
