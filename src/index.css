@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.animate-roll {
+  transform: rotate(360deg);
+}
